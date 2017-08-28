@@ -1,0 +1,28 @@
+div.main
+{
+	top:0px;
+	left:0px;
+	height:100%;
+	width:100%;
+background-image:url(images/title.png);
+background-repeat:all;
+}
+div.image
+{
+top:0px;
+left:10px;	
+}
+div.table
+{
+background-color:#DAA520;
+}
+div#details
+{
+//background-color:#CD853F;
+background-image:url(images/bg.jpeg);
+background-size:cover;	
+}
+div.footer
+{
+	background-color:#708090;
+}
